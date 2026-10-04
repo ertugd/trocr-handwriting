@@ -1,0 +1,11 @@
+{
+  "name": "ft_aug",
+  "model": "outputs/ft_aug/best",
+  "csv": "data/iam_words/test.csv",
+  "keep_ratio": false,
+  "num_beams": 1,
+  "CER": 0.06425068491815106,
+  "WER": 0.13435544913879663,
+  "word_accuracy": 0.8662777219689359,
+  "n": 25882
+}

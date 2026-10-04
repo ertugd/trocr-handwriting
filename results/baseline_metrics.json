@@ -1,0 +1,11 @@
+{
+  "name": "baseline",
+  "model": "microsoft/trocr-base-handwritten",
+  "csv": "data/iam_words/test.csv",
+  "keep_ratio": false,
+  "num_beams": 1,
+  "CER": 0.3954780777443037,
+  "WER": 0.7650034757086583,
+  "word_accuracy": 0.37779151533884553,
+  "n": 25882
+}

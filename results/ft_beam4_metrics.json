@@ -1,0 +1,11 @@
+{
+  "name": "ft_beam4",
+  "model": "outputs/ft/best",
+  "csv": "data/iam_words/test.csv",
+  "keep_ratio": false,
+  "num_beams": 4,
+  "CER": 0.06422143574444023,
+  "WER": 0.1312273113462578,
+  "word_accuracy": 0.8693686732091801,
+  "n": 25882
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ft_ratio_aug_beam4",
+  "model": "outputs/ft_ratio_aug/best",
+  "csv": "data/iam_words/test.csv",
+  "keep_ratio": true,
+  "num_beams": 4,
+  "CER": 0.06544015131572534,
+  "WER": 0.13420097319842433,
+  "word_accuracy": 0.8665481802024573,
+  "n": 25882
+}
